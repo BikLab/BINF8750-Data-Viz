@@ -19,7 +19,7 @@ Each person introduce yourself by stating:
 * What previous experience do you have with data visualization or graphic design (if any!)?
 * What is the biggest thing you hope to get out of this course?
 
-Instructor to take notes in this GDoc: INSERT HERE
+Instructor to take notes in this GDoc: https://docs.google.com/document/d/104ULFk4_hwbYDOgAOgkUkeonsCD3CElbqJt29l5WMMI/edit?usp=sharing
 
 #### 1:45pm - 2:00pm - Why is data visualization important?
 
