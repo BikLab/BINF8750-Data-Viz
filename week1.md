@@ -27,6 +27,7 @@ Slides here: INSERT SLIDE DECK HERE
 
 #### 2:00 - 2:35pm - The Good, The Bad, and the Ugly
 
-What makes bad figures so bad? And what makes good figures so good? 
+What makes bad figures so bad? Slides: https://docs.google.com/presentation/d/1FOWDqoXjq1nT1NREkyJcDygHlbk_ZY3U3aUUCPz5WVY/edit?slide=id.g2f12416bbeb_0_85#slide=id.g2f12416bbeb_0_85
 
-Slides here: INSERT SLIDE DECK HERE
+And what makes good figures so good? Slides: https://docs.google.com/presentation/d/11h_470LuM3Yw9Zg3Wa0EvFUKPcblRI3bwo-Ard2dYGM/edit?usp=sharing 
+
