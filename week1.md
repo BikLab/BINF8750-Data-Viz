@@ -23,7 +23,7 @@ Instructor to take notes in this GDoc: https://docs.google.com/document/d/104ULF
 
 #### 1:45pm - 2:00pm - Why is data visualization important?
 
-Slides here: INSERT SLIDE DECK HERE
+Slides here: https://www.dropbox.com/scl/fi/tzmpkryulyseat1ffvm1u/Week1-what-is-data-viz.pdf?rlkey=crmh56sj4bjzw4wnd3fea9rov&dl=0
 
 #### 2:00 - 2:35pm - The Good, The Bad, and the Ugly
 
