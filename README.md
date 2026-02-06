@@ -20,3 +20,9 @@ Course Schedule:
 * Week 8 - Maps and geospatial data visualizations
 * Week 9 - Plot reproducibility and coding considerations: R markdown, ggplot, Quarto, version control
 * Week 10 - Final Presentations
+
+---
+
+#### Class resources - links shared during class:
+
+Coolors - quick way to generate custom color palettes - https://coolors.co/
