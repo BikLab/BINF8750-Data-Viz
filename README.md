@@ -21,6 +21,8 @@ Course Schedule:
 * Week 9 - Plot reproducibility and coding considerations: R markdown, ggplot, Quarto, version control
 * Week 10 - Final Presentations
 
+**Room Change - we will be in Davison C130 on Feb 20th due to ILS interviews in our normal classroom**
+
 ---
 
 #### Class resources - links shared during class:
