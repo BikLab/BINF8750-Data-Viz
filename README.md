@@ -27,8 +27,8 @@ Course Schedule:
 
 #### Class resources - links shared during class:
 
-Coolors - quick way to generate custom color palettes - https://coolors.co/
-R color palette finder - https://r-graph-gallery.com/color-palette-finder 
-I want hue (another color palette finder) - https://medialab.github.io/iwanthue/ 
-Color vision deficiency simulator: https://www.color-blindness.com/coblis-color-blindness-simulator/
+* Coolors - quick way to generate custom color palettes - https://coolors.co/
+* R color palette finder - https://r-graph-gallery.com/color-palette-finder 
+* I want hue (another color palette finder) - https://medialab.github.io/iwanthue/ 
+* Color vision deficiency simulator - https://www.color-blindness.com/coblis-color-blindness-simulator/
 
