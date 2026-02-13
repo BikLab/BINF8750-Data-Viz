@@ -31,4 +31,6 @@ Course Schedule:
 * R color palette finder - https://r-graph-gallery.com/color-palette-finder 
 * I want hue (another color palette finder) - https://medialab.github.io/iwanthue/ 
 * Color vision deficiency simulator - https://www.color-blindness.com/coblis-color-blindness-simulator/
+* Coloring for Colorblindness - https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40
+* Who Can Use (tool that checks for common color vision deficiency and contrast issues) - https://www.whocanuse.com/
 
