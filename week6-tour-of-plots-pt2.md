@@ -1,7 +1,7 @@
 
 ## Week  6 - Accessibility + A Tour of Plots (Part 2) 
 
-Slide Deck here: 
+Slide Deck here: https://www.dropbox.com/scl/fi/6qgxfztoo3oosq0el6gn7/Week6-tour-of-plots-part2.pdf?rlkey=6vjq44sdpqiosdljlgs8ia5e7&dl=0
 
 #### Class plan
 
