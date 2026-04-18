@@ -33,9 +33,15 @@ Course Schedule:
 * Color vision deficiency simulator - https://www.color-blindness.com/coblis-color-blindness-simulator/
 * Coloring for Colorblindness - https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40
 * Who Can Use (tool that checks for common color vision deficiency and contrast issues) - https://www.whocanuse.com/
-* Procreate - (user friendly drawing app, you can also use it to create icons) - https://procreate.com/
+* Procreate (user friendly drawing app, you can also use it to create icons) - https://procreate.com/
+* ggOceans (R package for creating ocean bathymetric maps) - https://mikkovihtakari.github.io/ggOceanMaps/
+* marMap (another R package for creating bathymetric maps) - https://github.com/ericpante/marmap 
 
 #### Other resources that may be useful:
 
 * On campus graphic design services available through the college of Vet Med - https://vet.uga.edu/erc/portfolio/design/
+
+#### Additional textbooks that may be useful:
+
+* Data Integration, Manipulation and Visualization of Phylogenetic Trees (by Guangchuang Yu) - https://yulab-smu.top/treedata-book/
 
