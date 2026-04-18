@@ -6,7 +6,7 @@ This course uses material from the following two textbooks:
 
 * Wilke, Claus O. (2019) Fundamentals of Data Visualization: A primer on making informative and compelling figures, O’Reilly Publishing.
 E-Book freely available here: https://clauswilke.com/dataviz/
-* Healy, Kieran (2019) Data Visualization: A practical introduction, Princeton University Press.
+* Healy, Kieran (2026) Data Visualization: A practical introduction 2nd Edition, Princeton University Press. E-book freely available here: https://socviz.co/
 
 Course Schedule:
 
@@ -33,4 +33,9 @@ Course Schedule:
 * Color vision deficiency simulator - https://www.color-blindness.com/coblis-color-blindness-simulator/
 * Coloring for Colorblindness - https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40
 * Who Can Use (tool that checks for common color vision deficiency and contrast issues) - https://www.whocanuse.com/
+* Procreate - (user friendly drawing app, you can also use it to create icons) - https://procreate.com/
+
+#### Other resources that may be useful:
+
+* On campus graphic design services available through the college of Vet Med - https://vet.uga.edu/erc/portfolio/design/
 
