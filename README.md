@@ -44,4 +44,5 @@ Course Schedule:
 #### Additional textbooks that may be useful:
 
 * Data Integration, Manipulation and Visualization of Phylogenetic Trees (by Guangchuang Yu) - https://yulab-smu.top/treedata-book/
+* Wickham, Hadley, Mine Çetinkaya-Rundel, and Garrett Grolemund. 2023. R for Data Science: Import, Tidy, Transform, Visualize, and Model Data. 2nd ed. O’Reilly Media. https://r4ds.hadley.nz/
 
